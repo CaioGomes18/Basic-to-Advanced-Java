@@ -36,7 +36,6 @@ public class Main {
                 double precoLivro = input.nextDouble();
 
 
-
                 Livro livro = new Livro(livroName, autorLivro, precoLivro);
 
                 livros.add(livro);
